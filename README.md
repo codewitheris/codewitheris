@@ -1,4 +1,4 @@
-👋 Hi, I’m Erika
+<h1>👋 Hi, I’m Erika</h1>
 
 UI/UX Designer transitioning into UI Engineer  
 Design + code to build intuitive, functional interfaces
