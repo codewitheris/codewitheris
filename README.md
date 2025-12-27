@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m Erika</h2>
 
-UI/UX Designer transitioning into UI Engineer  
+UI/UX Designer transitioning into software engine
 Design + code to build intuitive, functional interfaces
 
 🎨 Design: UI/UX · Web Design · Visual Identity  
