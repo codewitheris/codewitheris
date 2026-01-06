@@ -13,5 +13,5 @@ Uno **design e desenvolvimento front-end** para criar interfaces intuitivas, fun
 
 📚 Leitura | 🐱 Apaixonada por gatos | 🎮 Games
 <br>
-[![LinkedIn]](https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/erika-silva-341083186/))
-[![Behance](https://www.behance.net/SEU-USUARIO](https://www.behance.net/erikaapsan97bc))
+[![LinkedIn]](https://www.linkedin.com/in/erika-silva-341083186/))
+[![Behance](https://www.behance.net/erikaapsan97bc))
