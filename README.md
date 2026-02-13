@@ -1,10 +1,9 @@
-<h1 align="center">🌙 Erika Silva</h1>
-<p align="center"><i>Entre código e criatividade</i></p>
+<h1 align="center">🌙 Bem-vindo(a) ao meu GitHub </h1>
 
 ---
 
 ## ✨ Sobre mim  
-Este é meu espaço de **aprendizado contínuo**.  
+Meu nome é Erika e este é meu espaço de **aprendizado contínuo**.  
 Aqui exploro tecnologia com intenção, sensibilidade e estrutura.
 
 - 🎓 ADS · foco futuro em **Engenharia de Software**
